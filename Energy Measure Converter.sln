@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Energy Measure Converter", "Energy Measure Converter\Energy Measure Converter.csproj", "{42539B89-8DAD-49E4-8C58-B001139BAE03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42539B89-8DAD-49E4-8C58-B001139BAE03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42539B89-8DAD-49E4-8C58-B001139BAE03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42539B89-8DAD-49E4-8C58-B001139BAE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42539B89-8DAD-49E4-8C58-B001139BAE03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF9685CF-97AC-494E-AF60-D73C87E4C93B}
+	EndGlobalSection
+EndGlobal
